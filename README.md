@@ -41,3 +41,4 @@ Builds the app for production to the `build` folder.
 ## Vercel
 
 1. <a href="https://www.delasign.com/blog/how-to-deploy-a-nextjs-project-to-vercel/?utm=nextjs-starter-project">How to deploy a NextJS project to Vercel 🔗</a>
+2. <a href="https://www.delasign.com/blog/how-to-add-edit-or-remove-environment-variables-in-vercel/?utm=nextjs-starter-project">How to add, edit or remove environment variables in Vercel 🔗</a>
