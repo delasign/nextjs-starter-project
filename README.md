@@ -1,10 +1,10 @@
-# Typescript + React Redux Starter Project.
+# Typescript + NextJS + Tailwind CSS Starter Project.
 
-A sample Typescript + React-Redux starter project that demonstrates its use via a counter.
+A sample Typescript + NextJS + Tailwind CSS starter project.
 
-It followed the tutorial found on: https://www.delasign.com/blog/ts-react-redux-guide-2022/
+It followed the tutorial found on: https://www.delasign.com/blog/how-to-create-a-typescript-nextjs-project-that-uses-tailwind-css/
 
-Please note that this guide uses Styled Components. To learn more about Styled Components please visit:https://styled-components.com
+Please note that this guide uses Tailwind CSS. To learn more about Tailwind CSS please visit: https://tailwindcss.com
 
 ## Getting Setup
 
