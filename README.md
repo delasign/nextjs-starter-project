@@ -35,3 +35,9 @@ Builds the app for production to the `build` folder.
 # 📰 Guides
 
 1. <a href="https://www.delasign.com/blog/how-to-create-a-typescript-nextjs-project-that-uses-tailwind-css/?utm=nextjs-starter-project">How to create a Typescript NextJS project that uses Tailwind CSS 🔗</a>
+
+# 📚 Tutorials
+
+## Vercel
+
+1. <a href="https://www.delasign.com/blog/how-to-deploy-a-nextjs-project-to-vercel/?utm=nextjs-starter-project">How to deploy a NextJS project to Vercel 🔗</a>
