@@ -1,4 +1,4 @@
 const Footer = () => {
-  return <div>Sample Button</div>
+  return <div></div>
 }
 export default Footer
