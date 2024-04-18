@@ -37,6 +37,7 @@ Builds the app for production to the `build` folder.
 1. <a href="https://www.delasign.com/blog/how-to-create-a-typescript-nextjs-project-that-uses-tailwind-css/?utm=nextjs-starter-project">How to create a Typescript NextJS project that uses Tailwind CSS 🔗</a>
 2. <a href="https://www.delasign.com/blog/structured-gatsby-reactjs-project/?utm=nextjs-starter-project">Our recommended structure for ReactJS, GatsbyJS or NextJS projects 🔗</a>
 3. <a href="https://www.delasign.com/blog/ts-react-redux-guide-2022/?utm=nextjs-starter-project">Typescript & React Redux: A Quick Setup Guide (2022) 🔗</a>
+4. <a href="https://www.delasign.com/blog/how-to-setup-nextjs-to-work-with-contentful/?utm=nextjs-starter-project">How to setup NextJS to work with Contentful 🔗</a>
 
 
 # 📚 Tutorials
@@ -53,3 +54,8 @@ Builds the app for production to the `build` folder.
 4. <a href="https://www.delasign.com/blog/how-to-deploy-code-updates-to-a-vercel-project/?utm=nextjs-starter-project">How to deploy code updates to a Vercel project 🔗</a>
 5. <a href="https://www.delasign.com/blog/how-to-deploy-branches-of-a-vercel-project/?utm=nextjs-starter-project">How to deploy branches of a Vercel project 🔗</a>
 6. <a href="https://www.delasign.com/blog/how-to-manually-redeploy-a-vercel-project/?utm=nextjs-starter-project">How to manually redeploy a Vercel project 🔗</a>
+
+
+## Contentful
+1. <a href="https://www.delasign.com/blog/how-to-setup-nextjs-to-work-with-contentful/?utm=nextjs-starter-project">How to setup NextJS to work with Contentful 🔗</a>
+2. <a href="https://www.delasign.com/blog/how-to-setup-nextjs-to-work-with-images-hosted-on-contentful/?utm=nextjs-starter-project">How to setup NextJS to work with images hosted on Contentful 🔗</a>
