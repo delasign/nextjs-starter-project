@@ -1,7 +1,10 @@
+// MARK: NPM Modules
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+// MARK: Other
 import "./globals.css";
 
+// MARK: React Component
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
