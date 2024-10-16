@@ -45,6 +45,13 @@ Builds the app for production to the `build` folder.
 ## Basics
 1. <a href="https://www.delasign.com/blog/how-to-create-and-use-environment-variables-in-an-env-file-in-nextjs/?utm=nextjs-starter-project">How to create and use environment variables in an .env file in NextJS 🔗</a>
 2. <a href="https://www.delasign.com/blog/how-to-create-and-use-aliases-in-nextjs/?utm=nextjs-starter-project">How to create and use aliases in NextJS 🔗</a>
+3. <a href="https://delasign.com/blog/how-to-lint-on-save-in-a-nextjs-project-using-vscode/?utm=nextjs-starter-project">How to lint on save in a NextJS project using VSCode 🔗</a>
+4. <a href="https://delasign.com/blog/how-the-nextjs-app-router-works/?utm=nextjs-starter-project">How the NextJS app router works 🔗</a>
+5. <a href="https://delasign.com/blog/how-to-add-static-or-dynamic-metadata-to-a-nextjs-page/?utm=nextjs-starter-project">How to add static or dynamic metadata to a NextJS page 🔗</a>
+6. <a href="https://delasign.com/blog/building-static-sites-with-next-js-a-hands-on-tutorial/?utm=nextjs-starter-project">Building Static Sites with Next.js: A Hands-On Tutorial 🔗</a>
+7. <a href="https://delasign.com/blog/how-to-add-a-sitemap-to-a-nextjs-website/?utm=nextjs-starter-project">How to add a sitemap to a NextJS website 🔗</a>
+8. <a href="https://delasign.com/blog/nextjs-static-site-doesnt-show-images/?utm=nextjs-starter-project">NextJS Static Site doesn't show images 🔗</a>
+9. <a href="https://delasign.com/blog/how-to-create-a-404-page-in-a-nextjs-project/?utm=nextjs-starter-project">How to create a 404 page in a NextJS project 🔗</a>
 
 ## Vercel
 
